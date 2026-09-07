@@ -66,70 +66,21 @@ Big'O Notation: O(nlogn)
 
 1- The root is 7
 
-2-      7
-       /
-      5
+2- To the left of the root is 5.
 
-3-      7
-       /
-      5
-     /
-    1
+3- To the left of the 5 is 1.
 
-4-       7
-       /   \
-      5     8
-     /
-    1
+4- To the right of the root is 8.
 
-5-       7
-       /   \
-      5     8
-     /
-    1
-     \
-      3
+5- To the right of the 1 is 3.
 
-6-       7
-       /   \
-      5     8
-     / \
-    1   6
-     \
-      3
+6- To the right of the 5 is 6.
 
-7-       7
-       /   \
-      5     8
-     / \
-    1   6
-   / \
-  0   3
+7- To the left of the 1 is 0.
 
-8-       7
-       /   \
-      5     8
-     / \     \
-    1   6     9
-   / \
-  0   3  
+8- To the right of the 8 is 9.
 
-9-       7
-       /   \
-      5     8
-     / \     \
-    1   6     9
-   / \
-  0   3        
-       \
-        4
+9- To the right of the 3 is 4.
 
-10-      7
-       /   \
-      5     8
-     / \     \
-    1   6     9
-   / \
-  0   3        
-      / \
-     2   4        
+10- To the left of the 3 is 2.
+

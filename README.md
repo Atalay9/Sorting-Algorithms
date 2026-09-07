@@ -53,3 +53,5 @@ Time Complexity for index of 18: Average Case
 
 6- [8,11,12,16,21,22]
 
+
+Big'O(nlogn)
